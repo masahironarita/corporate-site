@@ -322,10 +322,7 @@ h1 {
   #contents #main h2 {
     font-size: 20px;
     font-size: 2rem;
-    padding-bottom: 20px; }
-
-  #sidebar {
-    padding-right: 20px; } }
+    padding-bottom: 20px; } }
 @media (max-width: 550px) {
   #contents #sidebar .pc_sidemenu {
     display: none; } }
